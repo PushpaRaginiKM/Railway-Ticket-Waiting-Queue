@@ -54,8 +54,8 @@ Ticket confirmed. PNR: 1001 | Seat: 1 | Fare: Rs.250
 * Bridges theoretical data structures with real-world reservation logic[cite: 2].
 
 ## Team Members
-Name:  PUSHPA RAGINI KM   | Register No.: 20251ECE0198
-Name:  ARUNA JYOTHI       | Register No.: 20251ECE0229
-Name:  THEJAHWINI         | Register No.: 20251ECE0230
-Name:  LEISHA             | Register No.: 20251ECE0191
-Name:  SANJANA G          | Register No.: 20251ECE0210
+Name:  PUSHPA RAGINI KM   | Register No.: 20251ECE0198.
+Name:  ARUNA JYOTHI       | Register No.: 20251ECE0229.
+Name:  THEJAHWINI         | Register No.: 20251ECE0230.
+Name:  LEISHA             | Register No.: 20251ECE0191.
+Name:  SANJANA G          | Register No.: 20251ECE0210.
