@@ -1,0 +1,124 @@
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 1
+
+Train  Train Name              Route                    Fare
+101     Karnataka Express       Bengaluru-Delhi          Rs.1200
+102     Mysuru Intercity        Bengaluru-Mysuru         Rs.250
+103     Coastal Express         Bengaluru-Mangaluru      Rs.450
+
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 2
+Enter train number (101-103): 101
+Enter passenger name: abcd
+Enter age: 20
+Ticket confirmed. PNR: 1001 | Seat: 1 | Fare: Rs.1200
+
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 2
+Enter train number (101-103): 101
+Enter passenger name: lmno
+Enter age: 20
+Ticket confirmed. PNR: 1002 | Seat: 2 | Fare: Rs.1200
+
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 2
+Enter train number (101-103): 101
+Enter passenger name: xyz
+Enter age: 20
+Ticket confirmed. PNR: 1003 | Seat: 3 | Fare: Rs.1200
+
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 3
+Enter PNR to cancel: 1002
+Confirmed ticket cancelled.
+
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 4
+Enter PNR: 1003
+
+PNR: 1003
+Name: xyz
+Train: Karnataka Express
+Age: 20
+Status: Confirmed
+Seat: 3
+
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 5
+Enter train number (101-103): 101
+Waiting queue (front to rear): Empty
+
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 6
+
+PNR     Name                     Train  Status
+1001    abcd                     101    Confirmed
+1003    xyz                      101    Confirmed
+
+===== RAILQUEUE RESERVATION =====
+1. Show trains and fares
+2. Book ticket
+3. Cancel ticket
+4. Check PNR
+5. View waiting queue
+6. Booking history
+0. Exit
+Enter choice: 0
+Thank you for using RailQueue.
+
