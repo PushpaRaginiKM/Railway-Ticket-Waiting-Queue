@@ -33,7 +33,6 @@ The waiting list follows **FIFO (First In, First Out)**: the passenger who joins
 
 
 ## Sample demonstration
-```text
 ===== RAILQUEUE RESERVATION =====
 1. Show trains and fares
 2. Book ticket
