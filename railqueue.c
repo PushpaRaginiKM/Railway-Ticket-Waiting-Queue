@@ -1,7 +1,3 @@
-/* RailQueue - Railway Reservation using a Linear Queue
-   Based on Module 2: Queue (FIFO), Enqueue and Dequeue.
-   Compile: gcc railqueue.c -o railqueue
-*/
 #include <stdio.h>
 #include <string.h>
 
